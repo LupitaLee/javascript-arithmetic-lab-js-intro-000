@@ -9,11 +9,11 @@ function multiply(a,b){return a*b}
 function divide(a,b) {return a/b}
 
 function inc(n){ //Increment a by 1 and return the result.
-  number = a + 1;
+  number = n + 1;
   return number;
 }
 function dec(n){ //Decrement a by 1 and return the result.
-  number = a - 1;
+  number = n- 1;
   return number;
 }
 function makeInt(n){ //Parse a as an integer and return that integer.
