@@ -31,3 +31,24 @@ function preserveDecimal(a){ //Parse a as a float (number with decimals) and ret
   number = parseFloat(a, 10);
   return number;
 }
+
+
+function decreament() {var n=0;
+n--;
+return n;}
+
+var i = 0;
+
+function increment(n){
+
+  n++;
+  return n;
+}
+
+var n = 0;
+
+function decrement(n){
+
+  n--;
+  return n;
+}
