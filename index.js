@@ -39,5 +39,3 @@ return parseFloat(n)
 function makeInt(n){
 parseInt(563, 10)
 }
-
-
