@@ -35,3 +35,8 @@ parseInt(n, 10)
 function preserveDecimal(n){
 return parseFloat(n)
 }
+
+function preserveDecimal(a){ //Parse a as a float (number with decimals) and return that number.
+  number = parseFloat(a, 10);
+  return number;
+}
