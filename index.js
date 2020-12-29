@@ -36,9 +36,5 @@ function preserveDecimal(n){
 return parseFloat(n)
 }
 
-function makeInt(n){
-parseInt(563, 10)
-}
 
-makeInt(n){
-parseInt('0', 10);}
+
