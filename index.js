@@ -1,20 +1,12 @@
-var number;
-function add(a, b){ //add a and b and return the result.
-  number = a + b;
-  return number;
-}
-function subtract(a, b){ //subtract a and b and return the result.
-  number = a - b;
-  return number;
-}
-function multiply(a, b){ //multiply a and b and return the result.
-  number = a * b;
-  return number;
-}
-function divide(a, b){ //divide a and b and return the result.
-  number = a / b;
-  return number;
-}
+function add() {1+8}
+function subtract() {60-40}
+function multiply() {2* 3.4}
+function divide() {5.0 / 2.5}
+function add(a,b) {return a+b}
+function subtract(a,b){return a-b}
+function multiply(a,b){return a*b}
+function divide(a,b) {return a/b}
+
 function inc(a){ //Increment a by 1 and return the result.
   number = a + 1;
   return number;
