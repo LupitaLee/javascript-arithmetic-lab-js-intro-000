@@ -1,3 +1,4 @@
+var number;
 function add() {1+8}
 function subtract() {60-40}
 function multiply() {2* 3.4}
