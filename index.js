@@ -35,3 +35,7 @@ parseInt(n, 10)
 function preserveDecimal(n){
 return parseFloat(n)
 }
+
+function makeInt(a){ //Parse a as an integer and return that integer.
+  number = parseInt(a, 10);
+  return number;}
