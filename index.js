@@ -36,21 +36,8 @@ function preserveDecimal(n){
 return parseFloat(n)
 }
 
-function preserveDecimal(a){ //Parse a as a float (number with decimals) and return that number.
-  number = parseFloat(a, 10);
-  return number;
+function makeInt(n){
+parseInt(563, 10)
 }
 
 
-function dec(a){ //Decrement a by 1 and return the result.
-  number = a - 1;
-  return number;
-}
-function makeInt(a){ //Parse a as an integer and return that integer.
-  number = parseInt(a, 10);
-  return number;
-}
-function preserveDecimal(a){ //Parse a as a float (number with decimals) and return that number.
-  number = parseFloat(a, 10);
-  return number;
-}
